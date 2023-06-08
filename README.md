@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hello, I'm Bernardo Pereira, Front-End Web developer and passionate about technologies like Javascript.</h2>
+<h1 align="left">Hello, I'm Bernardo Pereira, Front-End Web developer and passionate about technologies like Javascript.</h1>
 
 ###
 
