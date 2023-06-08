@@ -1,46 +1,70 @@
-<h1 align="center">
-  Seja bem-vindo 👋  
-</h1>
-
-![ViewCount](https://views.whatilearened.today/views/github/BernardoSemiOficial/views.svg)
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BernardoSemiOficial&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSemiOficial&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/BernardoSemiOficial/github-readme-stats&theme=dracula">
-</p>
-
-## Sobre
-
-Sou Bernardo Pereira, desenvolvedor Front-End Web e apaixonado por tecnologias como o Javascript.
-
-- 🔭 Atualmente, estou trabalhando em projeto com HTML, CSS, SCSS, Javascript, React, Vue, Typescript, NodeJS e Shopify Liquid.
-- 🌱 Atualmente, estou aprendendo Javascript, React e Typescript.
-- 👯 Estou procurando por projetos que envolvam, principalmente, essas 9 tecnologias.
-- 💬 Pergunte-me sobre: Desenvolvimento Front-End, Back-end e Tecnologia.
-- ⚡ Curioso sobre: tecnologia, ciência, política social.
-- 🎓 Discente na FIAP (Faculdade de informática e Administração Paulista) - 7º Semestre.
-
-
-## Contato
-
-<p>
-<a href="https://www.linkedin.com/in/bernardo-pereira-oliveira/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Linkedin-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-pereira-oliveira/"/></a>
-<a href="https://bernardo-portifolio.netlify.app/" target="blank"><img alt="Portfólio Badge" src="https://img.shields.io/badge/-Portfólio-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://bernardo-portifolio.netlify.app/"/></a>
-</p>
-
-## Tecnologias utilizadas
-
-<div style="display:flex; align-items: center;">
-	<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-	<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-	<img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" />
-	<img align="left" alt="Bootstrap" width="26px" src="https://cdn.shopify.com/s/files/1/0065/1277/1170/files/shopify-liquid.png?v=1634345740" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BernardoSemiOficial.BernardoSemiOficial&"  />
 </div>
+
+###
+
+<h2 align="left">Hello, I'm Bernardo Pereira, Front-End Web developer and passionate about technologies like Javascript.</h2>
+
+###
+
+<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Student at FIAP (Faculty of Information Technology and Administration in São Paulo) - 7th Semester.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoSemiOficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=BernardoSemiOficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardoSemiOficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/b3rn4rd018/?hl=pt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bernardo-pereira-oliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BernardoSemiOficial/BernardoSemiOficial/output/snake.svg" alt="Snake animation" />
+
+###
