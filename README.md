@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Student at FIAP (Faculty of Information Technology and Administration in São Paulo) - 7th Semester.</p>
+<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Angular, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Student at FIAP (Faculty of Information Technology and Administration in São Paulo) - 7th Semester.</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
