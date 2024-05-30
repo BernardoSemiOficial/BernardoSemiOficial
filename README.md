@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Angular, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Student at FIAP (Faculty of Information Technology and Administration in São Paulo) - 7th Semester.</p>
+<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Angular, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Graduated in Information Systems at FIAP (Faculty of Information Technology and Administration in São Paulo)</p>
 
 ###
 
@@ -55,18 +55,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/b3rn4rd018/?hl=pt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/bernardo-pereira-oliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BernardoSemiOficial/BernardoSemiOficial/output/snake.svg" alt="Snake animation" />
-
-###
