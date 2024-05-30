@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Angular, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Graduated in Information Systems at FIAP (Faculty of Information Technology and Administration in São Paulo)</p>
+<p align="left">I'm currently working on a project with HTML, CSS, SCSS, Javascript, React, Vue, Angular, Typescript, NodeJS and Shopify Liquid.<br><br>- I am currently learning Javascript, Angular, React and Typescript.<br>- I'm looking for projects that mainly involve these 9 technologies.<br>- Ask me about: Front-End, Back-end and Technology Development.<br>- Curious about: technology, science, social policy.<br>- Graduated in Information Systems at FIAP (Faculty of Information Technology and Administration in São Paulo)</p>
 
 ###
 
